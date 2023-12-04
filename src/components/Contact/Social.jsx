@@ -15,7 +15,7 @@ const Social = () => {
                 <div className='contact-text'>
                 <h1>FIND ME ON</h1>
                 <p>
-                Please don't hesitate to reach out to me and <span className="yellow">connect.</span>
+                Please feel free to contact me if needed 
                 </p>
                 </div>
                 <ul className="contact-social-links">
