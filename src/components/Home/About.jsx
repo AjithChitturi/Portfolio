@@ -69,9 +69,6 @@ const About = () => {
             <Row>
               <Col md={12} className="home-about-social">
                 <h1>FIND ME ON</h1>
-                <p>
-                Please don't hesitate to reach out to me and connect.
-                </p>
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
