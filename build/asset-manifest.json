@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49406334.css",
+    "main.js": "/static/js/main.ec3ceeb1.js",
+    "static/media/Ajith(2).pdf": "/static/media/Ajith(2).a5d7b906a49f5945ae2b.pdf",
+    "static/media/travel.jpeg": "/static/media/travel.3a7e198cef28d54fab62.jpeg",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sLogo.png": "/static/media/sLogo.2e47b5aa2f6688faa619.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/SignatureVerifiaCrypt.jpeg": "/static/media/SignatureVerifiaCrypt.406d2614897315c7983a.jpeg",
+    "static/media/pg.png": "/static/media/pg.0d0d8ff689849d3d367c.png",
+    "static/media/Med.png": "/static/media/Med.ca34d0696e385a3ee2cb.png",
+    "static/media/OIP.jpeg": "/static/media/OIP.2e0c2bd08257294d65e4.jpeg",
+    "static/media/PhotGalary.jpeg": "/static/media/PhotGalary.ba0252f9e1820a985975.jpeg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.49406334.css.map": "/static/css/main.49406334.css.map",
+    "main.ec3ceeb1.js.map": "/static/js/main.ec3ceeb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49406334.css",
+    "static/js/main.ec3ceeb1.js"
+  ]
+}
